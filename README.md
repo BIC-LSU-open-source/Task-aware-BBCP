@@ -1,5 +1,5 @@
 # Task-aware-BBCP
-## Babar CP (BBCP) with Task-awareness Enhancement
+## BaBar CP (BBCP) with Task-awareness Enhancement
 
 The task-aware [BBCP](https://www.slac.stanford.edu/~abh/bbcp/) for the BIC-LSU project sends a scheduling request which contains all TCP connections used in the current transmission task to the SDN scheduler for network scheduling optimization.
 
